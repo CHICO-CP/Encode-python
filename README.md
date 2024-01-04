@@ -3,7 +3,7 @@
 Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+- TYPE THE FOLLOWING COMMANDS ONE BY ONE:
 ```bash
 cd && termux-setup-storage
 ```
