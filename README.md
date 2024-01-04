@@ -2,25 +2,39 @@
 
 Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 
-### —◉ 👾 ACTIVAR EN TERMUX 👾
+### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
+- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
+cd && termux-setup-storage
+```
 
-#### 1. Instalar Python
-[![Copia y pega este comando](https://img.shields.io/badge/Copia%20y%20pega-Instalar%20Python-blue)](termux-setup:pkg%20install%20python)
+```bash
+apt-get update -y && apt-get upgrade -y
+```
 
-#### 2. Instalar Git
-[![Copia y pega este comando](https://img.shields.io/badge/Copia%20y%20pega-Instalar%20Git-blue)](termux-setup:pkg%20install%20git)
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+```
 
-#### 3. Instalar pip para Python
-[![Copia y pega este comando](https://img.shields.io/badge/Copia%20y%20pega-Instalar%20pip%20para%20Python-blue)](termux-setup:pkg%20install%20python-pip)
+```bash
+git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+```
 
-#### 4. Clonar el Repositorio
-[![Copia y pega este comando](https://img.shields.io/badge/Copia%20y%20pega-Clonar%20el%20Repositorio-blue)](termux-setup:git%20clone%20https://github.com/CHICO-CP/Encode-python.git)
+```bash
+yarn install
+```
 
-#### 5. Acceder al Directorio
-[![Copia y pega este comando](https://img.shields.io/badge/Copia%20y%20pega-Acceder%20al%20Directorio-blue)](termux-setup:cd%20Encode-python)
+```bash
+npm install
+```
 
-#### 6. Ejecutar el Script
-[![Copia y pega este comando](https://img.shields.io/badge/Copia%20y%20pega-Ejecutar%20el%20Script-blue)](termux-setup:python%20encode.py)
+```bash
+npm update
+```
+
+```bash
+npm start
+```
 
 
 # Developer 
