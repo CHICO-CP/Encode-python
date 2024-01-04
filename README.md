@@ -7,33 +7,26 @@ Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
 ```bash
 cd && termux-setup-storage
 ```
-
 ```bash
 apt-get update -y && apt-get upgrade -y
 ```
-
 ```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+pkg install python
 ```
-
 ```bash
-git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+pkg install git
 ```
-
 ```bash
-yarn install
+pkg install python-pip
 ```
-
 ```bash
-npm install
+git clone https://github.com/CHICO-CP/Encode-python.git
 ```
-
 ```bash
-npm update
+cd Encode-python 
 ```
-
 ```bash
-npm start
+python encode.py
 ```
 
 
