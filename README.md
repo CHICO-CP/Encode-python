@@ -1,6 +1,6 @@
 ## 🔓 Encode python 🔑
 
-Telegram: [https://t.me/file_decryptors](https://t.me/file_decryptors)
+Telegram: [https://t.me/DecryptSP](https://t.me/DecryptSP)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - TYPE THE FOLLOWING COMMANDS ONE BY ONE:
