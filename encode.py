@@ -1,6 +1,5 @@
-# Obfuscated by CHICO_CP
-# Created by CHICO_CP 
-# Instagram : @julian.a.gvz
+# Obfuscated by @DevPhant0m
+# Created by @DevPhant0m 
 
 import zlib
 import base64
