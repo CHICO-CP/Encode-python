@@ -2,7 +2,7 @@
 
 Telegram: [https://t.me/DecryptSP](https://t.me/DecryptSP)
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
+### `—◉ 👾 EXECUTE EN TERMUX 👾` 
 - TYPE THE FOLLOWING COMMANDS ONE BY ONE:
 ```bash
 cd && termux-setup-storage
