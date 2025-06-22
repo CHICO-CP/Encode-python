@@ -1,5 +1,5 @@
-# Obfuscated by @DevPhant0m
-# Created by @DevPhant0m 
+# Obfuscated by @Gh0stDeveloper
+# Created by @Gh0stDeveloper 
 
 import zlib
 import base64
